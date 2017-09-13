@@ -1,0 +1,18 @@
+
+
+.index{
+	display: inline;
+	background: rgb(128, 128, 0);
+}
+
+#ab{ background: rgb(128, 128, 128);
+	border: 5px solid rgb(0,255,255);
+} 
+
+.indexd{
+	background: rgb(100, 166, 251);
+}
+
+.keywords{
+	color: rgb(128,255,128);
+}
