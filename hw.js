@@ -140,4 +140,4 @@ function fillParentHelper(text,index){
 }
 
 
-main("ab",500,500,["for","function"]);
+//main("ab",500,500,["for","function"]);
